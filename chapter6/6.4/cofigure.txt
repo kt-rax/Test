@@ -1,0 +1,2 @@
+--bottleneck_dir=bottlenecks --how_many_training_step=5000 --model_dir=inception --summaries_dir=training_summaries/basic --output_graph=retrained_graph.pb --output_labels=retrained_labels.txt --image_dir=flower_photos
+--image flower_photos\daisy\144076848_57e1d662e3_m.jpg --graph retrained_grapy.pb --labels retrained_labels.txt
